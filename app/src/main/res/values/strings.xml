@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Utilities Payments</string>
+    <string name="menu_item_add_service">Add new service</string>
+    <string name="btn_text_add_service">Add service</string>
+    <string name="btn_txt_cancel">Cancel</string>
+    <string name="menu_item_exit">Exit</string>
+    <string name="with_counter">With counter</string>
+    <string name="new_utility_service">New utility service</string>
+    <string name="current_data">Current data</string>
+    <string name="previous_data">Previous data</string>
+    <string name="difference">Difference</string>
+    <string name="differentiated_rate">Differentiated rate</string>
+    <string name="new_service_hint">Utility service name</string>
+    <string name="btn_txt_add_payment">Add payment</string>
+    <string name="new_payment">New payment</string>
+    <string name="add_payment">Add payment</string>
+    <string name="edit_service">Edit service</string>
+    <string name="delete_service">Delete</string>
+    <string name="wrong_rate_message">Wrong rate</string>
+    <string name="date_picker_dialog_tag">Choose date</string>
+    <string name="fixed_rate_name">Fixed rate</string>
+    <string name="simple_rate_name">Simple rate</string>
+    <string name="diff_rate_name">Diff. rate</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="message_text">Payment for this period already exists.</string>
+    <string name="replace_payment_title">Replace payment?</string>
+    <string name="rate">Rate</string>
+    <string name="current_counter_data">Current counter data</string>
+    <string name="previous_counter_data">Previous counter data</string>
+    <string name="wrong_counter_data">Wrong counter data</string>
+    <string name="payment_sum">Payment sum</string>
+    <string name="added_for_payment">was added</string>
+    <string name="added_for_service">was added</string>
+    <string name="menu_item_add_payment">Add payment</string>
+    <string name="menu_item_cancel">Cancel</string>
+    <string name="save_btn_text">Save</string>
+    <string name="saved">saved</string>
+    <string name="delete_service_dialog_title">Delete service?</string>
+    <string name="edit_payment">Edit payment</string>
+    <string name="counter_data_error">Previous counter data is greater than current</string>
+    <string name="payments">Payments</string>
+    <string name="delete_payment_dialog_title">Delete payment?</string>
+    <string name="rate1">Rate 1</string>
+    <string name="border1">Border 1</string>
+    <string name="rate2">Rate 2</string>
+    <string name="border2">Border 2</string>
+    <string name="rate3">Rate 3</string>
+    <string name="border3">Border 3</string>
+    <string name="service">Service</string>
+    <string name="wrong_counter_data_or_rate">Please check  data</string>
+    <string name="payment_added">payment added</string>
+    <string name="display_payments">Display payments</string>
+    <string-array name="months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.felixfeatures.utilitiespayments">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddServiceActivity"
+            android:label="@string/new_utility_service" />
+        <activity
+            android:name=".AddFixedPaymentActivity"
+            android:label="@string/new_payment" />
+        <activity
+            android:name=".AddSimplePaymentActivity"
+            android:label="@string/new_payment" />
+        <activity
+            android:name=".AddDiffPaymentActivity"
+            android:label="@string/new_payment" />
+        <activity
+            android:name=".PaymentsActivity"
+            android:label="@string/payments" />
+        <activity
+            android:name=".EditServiceActivity"
+            android:label="@string/edit_service" />
+        <activity
+            android:name=".EditFixedPaymentActivity"
+            android:label="@string/edit_payment" />
+        <activity
+            android:name=".EditSimplePaymentActivity"
+            android:label="@string/edit_payment" />
+        <activity
+            android:name=".EditDiffPaymentActivity"
+            android:label="@string/edit_payment" />
+    </application>
+
+</manifest>

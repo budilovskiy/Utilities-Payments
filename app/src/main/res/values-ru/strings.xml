@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Utilities Payments</string>
+    <string name="btn_text_add_service">Добавить услугу</string>
+    <string name="btn_txt_cancel">Отмена</string>
+    <string name="current_data">Текущие показания</string>
+    <string name="difference">Разница</string>
+    <string name="differentiated_rate">Дифференцированный тариф</string>
+    <string name="menu_item_add_service">Новая услуга</string>
+    <string name="menu_item_exit">Выход</string>
+    <string name="new_utility_service">Новая коммунальная услуга</string>
+    <string name="previous_data">Предыдущие показания</string>
+    <string name="with_counter">По счетчику</string>
+    <string name="new_service_hint">Имя услуги</string>
+    <string name="new_payment">Новый платеж</string>
+    <string name="add_payment">Добавить платеж</string>
+    <string name="delete_service">Удалить</string>
+    <string name="wrong_rate_message">Неверный тариф</string>
+    <string name="date_picker_dialog_tag">Выбор даты</string>
+    <string name="btn_txt_add_payment">Добавить платеж</string>
+    <string name="edit_service">Редактировать услугу</string>
+    <string name="fixed_rate_name">Фиксированная сумма</string>
+    <string name="simple_rate_name">Простой тариф</string>
+    <string name="diff_rate_name">Дифф. тариф</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="message_text">Платеж за указанный период уже существует</string>
+    <string name="replace_payment_title">Заменить платеж?</string>
+    <string name="rate">Тариф</string>
+    <string name="current_counter_data">Текущие показания счетчика</string>
+    <string name="previous_counter_data">Предыдущие показания счетчика</string>
+    <string name="wrong_counter_data">Неверные показания счетчика</string>
+    <string name="payment_sum">Сумма платежа</string>
+    <string name="added_for_payment">добавлен</string>
+    <string name="added_for_service">добавленa</string>
+    <string name="payment_added">платеж добавлен</string>
+    <string name="menu_item_cancel">Отмена</string>
+    <string name="save_btn_text">Сохранить</string>
+    <string name="saved">сохранена</string>
+    <string name="delete_service_dialog_title">Удалить услугу?</string>
+    <string name="edit_payment">Редактировать платеж</string>
+    <string name="counter_data_error">Предыдущие показания счетчика больше текущих</string>
+    <string name="menu_item_add_payment">Добавить платеж</string>
+    <string name="payments">Платежи</string>
+    <string name="delete_payment_dialog_title">Удалить платеж?</string>
+    <string name="rate2">Тариф 2</string>
+    <string name="border2">Граница 2</string>
+    <string name="rate3">Тариф 3</string>
+    <string name="border3">Граница 3</string>
+    <string name="border1">Граница 1</string>
+    <string name="rate1">Тариф 1</string>
+    <string name="service">Услуга</string>
+    <string name="wrong_counter_data_or_rate">Неверно введены данные</string>
+    <string name="display_payments">Журнал платежей</string>
+    <string-array name="months_array">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+</resources>
